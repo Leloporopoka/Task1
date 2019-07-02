@@ -1,0 +1,274 @@
+@font-face {
+    font-family: OpenSans-Bold; 
+    src: url(Open_Sans/OpenSans-Bold.ttf); 
+   }
+   @font-face {
+    font-family: OpenSans-ExtraBold; 
+    src: url(Open_Sans/OpenSans-ExtraBold.ttf); 
+   }
+   @font-face {
+    font-family: OpenSans-Regular; 
+    src: url(Open_Sans/OpenSans-Regular.ttf); 
+   }
+   @font-face {
+    font-family: OpenSans-Semibold; 
+    src: url(Open_Sans/OpenSans-Semibold.ttf); 
+   }
+   @font-face {
+    font-family: OpenSans-Italic; 
+    src: url(Open_Sans/OpenSans-Italic.ttf); 
+   }
+
+  
+   .nav_reference:hover{
+ background-color:#ff3f40;
+}
+
+hr{
+    border: 1px solid#ff3f40;
+}
+
+.nav_reference{
+    height:100%;
+}
+
+.nav_reference.a{
+    font-family:OpenSans-Bold;
+    font-size: 12pt;
+    
+}
+.ftext{
+width:50%;
+}
+
+.navigation{
+    position: static;
+}
+
+header{
+    background-color: #f6f2f2;
+    padding-bottom: 5%;
+   
+}
+
+.video{
+    width:100%;
+    height:100%;
+}
+
+.row{
+    margin-top:5%;
+}
+
+section{
+    margin-top:4%;
+}
+
+.firstP{
+    font-family: OpenSans-ExtraBold;
+    font-size: 45pt;
+    line-height:1.2;
+
+}
+.secondP{
+    font-family:OpenSans-Regular;
+    font-size: 11;
+    line-height: 1.75;
+    color: rgba(0, 0, 0, 0.702);
+}
+
+  
+.thirdP{
+    font-family: OpenSans-Bold;
+    line-height:1.2;
+    font-size: 29pt;
+}
+
+.fourP{
+    font-family: OpenSans-Bold;
+    line-height:1.2;
+    font-size: 21pt;
+}
+
+.social {
+    font-size: 14pt;
+    font-family: "OpenSans-Italic";
+    color: rgba(0, 0, 0, 0.8);
+    line-height: 1.333;
+    padding-right:1em;
+    margin-left:0;
+  }
+  
+
+
+.bgroup{
+    background-color:#ff2d2d !important;
+    font-family: OpenSans-Bold !important;
+    line-height: 1.892 !important;
+    font-size: 15pt !important;
+}
+
+h4{
+    font-family:OpenSans-Semibold;
+}
+
+.tablinks{
+    font-size:17pt;
+    color: rgba(0, 0, 0, 0.702);
+    font-family:OpenSans-Semibold;
+    line-height: 1.091;
+    padding-left:1em;
+    padding-right:1em;
+    border: none;
+    outline: none;
+    background:none;
+}
+.tablinks:hover{
+    color:#ff3f40;
+}
+ 
+.tablinks.active{
+    color:#ff3f40;
+}
+.tablinks.disabled{
+    color: rgba(0, 0, 0, 0.702);
+}
+.tabcontent{
+    display: none;
+}
+
+#ALL{
+    display: inline;
+}
+
+.features{
+    width:200px;
+    height:200px
+}
+.team_logo{
+    width:90%;
+    height:100%;
+}
+
+.subscribe{
+    background-color: #f5f0dd;
+    margin-top:5%;
+    padding-top:5%;
+    padding-bottom:5%;
+}
+
+.form1{
+    margin-left:25%;
+    width:50%;
+}
+
+.sbutton{
+    margin-top:3%;
+}
+
+
+
+.mail{
+
+background-color: #e5e5e5;
+}
+
+.name{
+background-color: #e5e5e5;
+
+}
+
+.message{
+    margin-top:3%;
+    display: block;
+    background-color: #e5e5e5;
+}
+
+.bgroup2{
+    display: block;
+    width:100%;
+    background-color:#ff2d2d !important;
+    font-family: OpenSans-Bold !important;
+    line-height: 1.892 !important;
+    font-size: 15pt !important;
+}
+
+  
+
+  
+.contacts {
+    
+    font-size: 16px;
+    font-family: "OpenSans-Regular";
+    color: rgba(255, 255, 255, 0.8);
+    line-height: 1.75;
+    text-align: left;
+    width:70%;
+    
+   
+  }
+  
+  .CNS{
+   
+    background-color:#2d2d2d;
+    padding-top:10%;
+    padding-left:5%;
+   
+ }
+
+.contact_info {
+    font-size: 20px;
+    font-family: "OpenSans-Bold";
+    color: rgba(255, 255, 255, 0.8);
+    line-height: 1.892;
+    text-align: left;
+   }
+
+   footer{
+    background-color:#2d2d2d;
+    position: static;
+   }
+  .lfooter{
+    color: rgba(255, 255, 255, 0.8);
+  }
+  .foot{
+    padding-top:2%;
+    }
+   .soc_links{
+       padding-right: 2%;
+   }
+   .hr1{
+    width:10%;
+   }
+   .hr2{
+    width:30%;
+    margin-left:0;
+   }
+   .subscribe p{
+    color:white;
+   }
+   .inbtn{
+    margin-top: 5%;
+   }
+   .git{
+    padding-left:0%;
+   }
+   .hr3{
+    width:30%;
+    margin-left:0;
+   }
+.rin{
+    padding-right: 0%;
+}
+.lin{
+    padding-left: 0%;
+}
+.inputs{
+    padding-right:10%;
+}
+.nail{
+    margin-top:0%;
+}
+.workers{
+    margin-left:5%;
+}
